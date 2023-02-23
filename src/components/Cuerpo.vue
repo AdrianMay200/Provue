@@ -3,12 +3,12 @@ import Item from './Articulo.vue'
 </script>
 
 <template>
-
-  <Item>
-  <div class="text-2xl" style="margin: 50px 100px 50px 200px">
+ <div >
+  <Item >
+  <div class="text-2xl" style="margin: 0px 100px 50px 200px">
     <h1>¿Pueden crear un sitio web gratuito para mi proyecto?</h1>
   </div>
-  <div class="text-2xl" style="margin: 50px 100px 50px 0px">
+  <div class="text-2xl" style="margin: 0px 100px 50px 0px">
     <h3>La respuesta corta es sí.
 
 Claro que necesitamos saber en qué consiste el sitio que necesitas y tu historia para valorar el apoyo gratuito en la creación y publicación de tu sitio.
@@ -19,55 +19,68 @@ Averigua las condiciones de un sitio web gratuito para nosotros será un placer 
   <div class="text-2xl" style="margin: 0px 100px 50px 350px">
     <h1>¿Que proyectos realizamos?</h1>
   </div>
-    <h3>Nuestro laboratorio está pensado para <a class="text-amber-10"><b>programadores</b></a> por lo que los productos que creamos se categorizan como software. 
+
+  <div class="text-2xl" style="margin: 0px 100px 50px 0px">
+    <h3>Nuestro laboratorio está pensado para PROGRAMADORES por lo que los productos que creamos se categorizan como software. 
       <br>
     El software puede encajar en alguna de estas posibilidades:</h3>
+  </div>
 
   </Item>
 
-  <Item>
-<div class="cards" style="margin: 0px 800px 0px 0px">
-  <div class="max-w-sm rounded overflow-hidden shadow-lg bg-amber-600 border border-black " style="margin: 30px 10px 10px 0px">
+
+
+ </div>
   
-  <div class="px-6 py-4">
-    
-    <div class="font-bold text-xl mb-2 text-cyan-900">Sitios Web</div>
-    <p class="text-base text-cyan-900">
-      <b>Los sitios web son lo que conocemos comúnmente por "página web".</b>
-    </p>
-  </div>
-  <div class="listaa" style="margin: 10px 10px 10px 0px">
-  Es la solución adecuada para:
 
-  <li>Promover servicios o productos </li>
-  <li>Presentar contenidos o información al público </li>
-  <li>Promover un negocio </li>
-  </div>
-  </div>
+<div class="flex" style="margin: 0px 250px 0px 0px">
+      <Item>
+        <div class="max-w-sm rounded overflow-hidden shadow-lg w-96 " >
+      <img class="w-full" src="https://d500.epimg.net/cincodias/imagenes/2015/11/20/lifestyle/1448037563_041957_1448037621_noticia_normal.jpg" alt="Sunset in the mountains">
+      <div class="px-6 py-4">
+        <div class="font-bold text-xl mb-2">"Sitio web"</div>
+        <div class="font-bold text-xl mb-2">Los sitios web son lo que conocemos comúnmente por "página web".</div>
+        <div class="font-bold text-xl mb-2">Es la solución adecuada para:</div>
+        <p class="text-gray-700 text-base">
+          Es la solución adecuada para:
+          <br>
+          -*-Promover servicios o productos
+          <br>
+          -*-Presentar contenidos o información al público
+          <br>
+          -*-Promover un negocio
+        </p>
+      </div>
+      
+    </div>
 
-    <div class="max-w-sm rounded overflow-hidden shadow-lg bg-amber-600 border border-black" style="margin: 30px 10px 10px 0px">
-  
-  <div class="px-6 py-4">
-    
-    <div class="font-bold text-xl mb-2 text-cyan-900">Aplicaciones Web</div>
-    <p class="text-base text-cyan-900">
-      <b>Son como los sitios web, pero estos además pueden manipular datos.</b>
-    </p>
-  </div>
-  <div class="listaa" style="margin: 10px 10px 10px 0px">
-  Es la solución adecuada para:
+      </Item>
 
-  <li>Registrar usuarios</li>
-  <li>Mostrar información que cambia con el tiempo</li>
-  <li>Realizar cálculos con la información de los usuarios</li>
-  </div>
-  </div>
+      <Item>
+        <div class="max-w-sm rounded overflow-hidden shadow-lg w-96">
+      <img class="w-full" src="https://www.fuegoyamana.com/wp-content/uploads/2017/04/aplicaci%C3%B3n-web-y-de-escritorio-01.jpg">
+      <div class="px-6 py-4">
+        <div class="font-bold text-xl mb-2">"Aplicación web"</div>
+        <div class="font-bold text-xl mb-2">Son como los sitios web, pero estos además pueden manipular datos.</div>
+        <div class="font-bold text-xl mb-2">Es la solución adecuada para:</div>
+        <p class="text-gray-700 text-base">
+          Es la solución adecuada para:
+          <br>
+          -*-Registrar Usuarios 
+          <br>
+          -*-Mostrar información que cambia con el tiempo
+          <br>
+          -*-Realizar cálculos con información de los usuarios
+        </p>
+      </div>
+      
+    </div>
+
+      </Item>
+
 </div>
-  </Item>
+ 
+
+
 </template>
 
-<style type="text/css">
-  .cards{
-    display: inline-flex;
-  }
-</style>

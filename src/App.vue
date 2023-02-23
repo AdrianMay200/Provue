@@ -12,7 +12,7 @@ import lado from './components/Cuerpo.vue'
   <main>
     <cabecera />
   </main>
-  <aside class="bg-gray-200">
+  <aside class="bg-gray-50">
     <lado/>
       
   </aside>

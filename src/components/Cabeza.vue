@@ -13,24 +13,24 @@ import Item from './Articulo.vue'
               clip-rule: evenodd;
               stroke-miterlimit: 1.5;
             ">
-            <rect id="Mesa-de-trabajo4" serif:id="Mesa de trabajo4" x="0" y="0" width="500" height="150" style="fill: none"></rect>
+            <rect id="Mesa-de-trabajo4" serif:id="Mesa de trabajo4" x="0" y="0" width="500" height="550" style="fill: none"></rect>
             <g>
               <g>
                 <g>
                   <g id="Capa2">
-                    <path d="M82.775,89.986l-9.562,-15.753l-18.702,-0.24c0,0 9.563,15.754 9.563,15.754l18.701,0.239Z" style="fill: none; stroke: #023047; stroke-width: 6px"></path>
-                    <path d="M45.378,89.504l9.133,-15.511c0,0 9.563,15.755 9.563,15.754c0,0.001 -9.135,15.509 -9.135,15.509l-9.561,-15.752Z" style="fill: none; stroke: #023047; stroke-width: 6px"></path>
-                    <path d="M64.074,89.747l-9.135,15.509l18.697,0.245l9.139,-15.515l-18.701,-0.239Z" style="fill: none; stroke: #023047; stroke-width: 6px"></path>
+                    <path d="M82.775,89.986l-9.562,-15.753l-18.702,-0.24c0,0 9.563,15.754 9.563,15.754l18.701,0.239Z" style="fill: none; stroke: #023047; stroke-width: 3px"></path>
+                    <path d="M45.378,89.504l9.133,-15.511c0,0 9.563,15.755 9.563,15.754c0,0.001 -9.135,15.509 -9.135,15.509l-9.561,-15.752Z" style="fill: none; stroke: #023047; stroke-width: 3px"></path>
+                    <path d="M64.074,89.747l-9.135,15.509l18.697,0.245l9.139,-15.515l-18.701,-0.239Z" style="fill: none; stroke: #023047; stroke-width: 3px"></path>
                   </g>
                   <path d="M71.072,58.44c-3.555,-1.955 -4.912,0.592 -8.244,0.633l-1.686,-5.366c-4.894,0.247 -9.664,1.424 -14.038,3.463l1.445,5.426c-2.909,1.498 -5.543,3.435 -7.807,5.74l-5.093,-2.744c-3.188,3.521 -5.61,7.633 -7.126,12.099l4.97,2.951c-0.905,3.074 -1.299,6.279 -1.168,9.497l-5.517,1.486c0.385,4.733 1.731,9.37 3.96,13.648l5.584,-1.253c1.629,2.849 3.706,5.445 6.155,7.691l-2.709,4.845c3.733,3.172 8.057,5.619 12.726,7.202l2.927,-4.722c3.209,0.955 6.541,1.42 9.872,1.379l1.686,5.366c4.894,-0.247 9.664,-1.423 14.038,-3.463l-1.445,-5.425c2.909,-1.498 5.544,-3.436 7.807,-5.741l5.093,2.744c3.188,-3.521 5.61,-7.632 7.127,-12.099l-4.971,-2.951c0.905,-3.074 1.299,-6.278 1.168,-9.497l5.517,-1.486c-0.385,-4.732 -1.731,-9.37 -3.959,-13.647l-5.585,1.252c-1.629,-2.849 -0.712,-4.696 -3.383,-6.649" style="
                       fill: none;
                       stroke: #023047;
-                      stroke-width: 6px;
+                      stroke-width: 8px;
                       stroke-linecap: square;
                     "></path>
                 </g>
-                <path d="M69.034,61.836l19.288,-32.745l-8.61,-4.872" style="fill: none; stroke: #023047; stroke-width: 6px"></path>
-                <path d="M86.255,71.582l19.289,-32.745l8.61,4.872" style="fill: none; stroke: #023047; stroke-width: 6px"></path>
+                <path d="M69.034,61.836l19.288,-32.745l-8.61,-4.872" style="fill: none; stroke: #023047; stroke-width: 8px"></path>
+                <path d="M86.255,71.582l19.289,-32.745l8.61,4.872" style="fill: none; stroke: #023047; stroke-width: 9px"></path>
               </g>
               <path d="M132.38,113.192l-0,-49.971l7.193,-0l-0,49.971l-7.193,0Zm6.953,-49.731l-6.713,-0l-0,49.491l6.713,0l0,-49.491Zm-6.953,-0.24l-0,49.971l7.193,0l-0,-49.971l-7.193,-0Z" style="fill: #023047; fill-rule: nonzero"></path>
               <path d="M180.545,84.651c-0,-0 -14.296,-0 -14.296,-0c-0.409,-0.035 -0.823,-0.055 -1.241,-0.055c-0.243,-0 -0.484,0.008 -0.725,0.02c-3.574,-0.354 -6.374,-3.377 -6.374,-7.043c-0,-3.903 3.174,-7.078 7.078,-7.078l15.8,0c3.666,0.132 6.627,3.052 6.828,6.702l7.2,-0c-0.067,-2.436 -0.743,-4.719 -1.877,-6.702c-0.002,-0.002 -0.002,-0.005 -0.005,-0.007c-2.409,-4.196 -6.883,-7.056 -12.038,-7.186l-15.908,0c-5.306,0 -9.936,2.897 -12.396,7.193c-1.194,2.086 -1.875,4.503 -1.875,7.078c0,2.575 0.681,4.992 1.875,7.078c0.599,1.045 1.326,2.007 2.16,2.865c2.592,2.668 6.22,4.328 10.236,4.328l15.558,-0c3.903,-0 7.078,3.174 7.078,7.077c-0,3.904 -3.175,7.078 -7.078,7.078l-15.537,0c-3.786,0 -6.886,-2.973 -7.092,-6.708l-7.2,-0c0.067,2.438 0.746,4.723 1.882,6.708c2.467,4.297 7.099,7.193 12.41,7.193l15.537,0c5.306,0 9.935,-2.896 12.395,-7.193c1.194,-2.086 1.875,-4.503 1.875,-7.078c0,-2.575 -0.681,-4.991 -1.875,-7.077c-2.46,-4.297 -7.089,-7.193 -12.395,-7.193Z" style="fill: #023047; fill-rule: nonzero"></path>
@@ -56,10 +56,10 @@ import Item from './Articulo.vue'
 
 
 
-    <div class="w-4/7 texto" style="margin: 30px 100px 30px 30px"> 
-    <h1 class="text-blue font-family:Monaco text-xl">¿Quienes Somos?</h1>
+    <div class="w-4/7 texto" style="margin: 0px 100px 30px 30px"> 
+    <h1 class="text-black font-family:Monaco text-xl">¿Quienes Somos?</h1>
     <br>
-    <p class="text-blue text-m">
+    <p class="text-black text-m">
     Somos un equipo de laboratorio que busca el desarrollo de nuestros estudiantes a través de la creación de proyectos que sean útiles a la sociedad.
     <a class="text-amber-100" href="#">¿Tienes un proyecto en mente? </a> 
     <p>Compártelo con nosotros y buscaremos la manera de ayudarte.</p>
